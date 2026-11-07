@@ -1,0 +1,6 @@
+{
+  "name": "Marks Manager",
+  "description": "Student marks management system with classes, subjects, marks entry, auto grading, rank calculation, analytics, and PDF report cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
